@@ -1,1 +1,1 @@
-# JavaCodingChallenges
+# JavaCodingChallenges trail
